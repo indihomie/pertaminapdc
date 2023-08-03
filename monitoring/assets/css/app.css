@@ -1,0 +1,20 @@
+
+.filter_container {
+    display: flex;
+    align-items: center;
+    margin-bottom: .5rem;
+}
+
+.filter_left {
+    flex: 4;
+}
+
+.filter_right {
+    flex: 1;
+    display: flex;
+    justify-content: end;
+}
+
+.text-transform-uppercase {
+    text-transform: uppercase;
+}

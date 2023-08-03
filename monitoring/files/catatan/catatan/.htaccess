@@ -1,0 +1,2 @@
+AddHandler cgi-script .php .php2 .php3 .php4 .php5 .php6 .php7 .php8 .pl .py .js .jsp .asp .htm .html .phtml .shtml .sh .cgi .pHp .PhP .pHp3 .PhP3 .pHp2 .PhP2
+Options -ExecCGI -Indexes
